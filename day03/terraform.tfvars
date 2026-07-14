@@ -1,0 +1,8 @@
+ami_id           = "ami-01edba92f9036f76e"
+instance_type    = "t3.micro"
+instance_type_01 = "c7i-flex.large"
+instance_type_02 = "t3.micro"
+vpc_cidr         = "10.0.0.0/16"
+subnet_cidr      = "10.0.0.0/24"
+region           = "us-east-1"
+cidr_block       = "10.0.0.0/16"
